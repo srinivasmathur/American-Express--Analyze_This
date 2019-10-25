@@ -3,6 +3,5 @@
 
 ## Problem Statement -To predict and segment the credit line of the customer into low,medium and high based on credit card data,income,revenue etc.
 
-Approach-In ppt
-	
-### Scoring- A custom scoring model was to be made as instructed in the contest to measure the performance of the model. 
+Approach-In the ppt.
+Scoring- A custom scoring model was to be made as instructed in the contest to measure the performance of the model. 
