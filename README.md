@@ -16,7 +16,7 @@ VAR7-	Last 6M Avg Remit	Average amount paid towards card bills in the last 6 mon
 VAR8-	Last 6M Avg Bal	Average balance on each card in the last 6 months
 VAR9-	Internal Revolve	The average daily balance as a percentage of cycle cut balance with XYZEE (all accounts)
 VAR10-	Lending AR% in last 6M	Percentage of internal balance (with XYZEE) on the lending card (of lending and charge card total)
-VAR11-	ExternalBalance	Total balance on external cards
+VAR11-	ExternalBalance	Total balance on external cards\n
 VAR12-	Months in Business	Total number of months the entity has been in business
 VAR13-	preferred_spend_line	The credit line on external card with maximum spending
 VAR14-	total_cards	Number of accounts with XYZEE associated with the same entity
@@ -28,4 +28,4 @@ VAR19-	isChargeCust	Indicator saying whether the customer also has a charge card
 VAR20-	CMV	This is the lifetime value associated with each account
 VAR21-	Assigned Line	This is the segment of credit line provided to each account
 	
-##Scoring- A custom scoring model was to be made as instructed in the contest to measure the performance of the model. 
+## Scoring- A custom scoring model was to be made as instructed in the contest to measure the performance of the model. 
